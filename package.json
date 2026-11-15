@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-unit-action-build-fortress",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The BuildFortress unit action: a delayed action that builds a Fortress on the unit's own tile.",
   "repository": "git@github.com:civ-clone/base-unit-action-build-fortress.git",
   "keywords": [
